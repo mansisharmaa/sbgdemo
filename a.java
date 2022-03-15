@@ -3,5 +3,7 @@ class A{
         int a=34;
         int b=12;
         System.out.println(a+b);
+        
+        hello
     }
 }
