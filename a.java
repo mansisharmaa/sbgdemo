@@ -4,6 +4,6 @@ class A{
         int b=12;
         System.out.println(a+b);
         
-        helloytgyyuft
+        helloytgyyu
     }gu
 }
